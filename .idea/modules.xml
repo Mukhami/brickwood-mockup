@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/brickwood.iml" filepath="$PROJECT_DIR$/.idea/brickwood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/equatorial/.idea/equitorial.iml" filepath="$PROJECT_DIR$/../../Projects/equatorial/.idea/equitorial.iml" />
+    </modules>
+  </component>
+</project>
